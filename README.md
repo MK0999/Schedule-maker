@@ -12,11 +12,10 @@ TA-Tara
 AskBcs app
 google
 
-## Screensh
+## Screenshots
+![Deployed web page scrrenshot!](
 
 
-https://github.com/MK0999/protestation/blob/main/assests/Screenshot%20(19).png
-https://github.com/MK0999/protestation/blob/main/assests/Screenshot%20(20).png
 
 ## Links
 REPO:https://github.com/MK0999/almanac
