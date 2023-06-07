@@ -22,4 +22,4 @@ https://github.com/MK0999/protestation/blob/main/assests/Screenshot%20(20).png
 REPO:https://github.com/MK0999/almanac
 
 
-DEPLOYED LINK: 
+DEPLOYED LINK: https://mk0999.github.io/almanac/
