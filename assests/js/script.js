@@ -10,15 +10,13 @@ var saveBtnEl = $(".saveBtn")
 var descriptionEl = $(".description")
 
     $(function (){
-
-       
-    
-    
-    function blockColor(){
+function blockColor(){
     $(".time-block").each(function(){
     console.log('time is for')
     var currentHour = dayjs().format("H");
     var currentBlock = parseInt(this.id)
+    console.log(currentBlock, currentHour)
+    console.log(this.id)
     if(currentBlock == currentHour){
         $(this).removeClass("past future").addClass("present");
     }
@@ -27,14 +25,13 @@ var descriptionEl = $(".description")
     }
     else{
         $(this).removeClass("past present").addClass("future");
+        
+        console.log(this.id)
     }
     })
     }
     
-    
-    $(".time-block").each(function(){
-    
-    
+     $(".time-block").each(function(){
     })
     function textEntry() {
     $(".saveBtn").on('click', function() {
