@@ -13,8 +13,8 @@ AskBcs app
 google
 
 ## Screenshots
-![Deployed web page scrrenshot](https://github.com/MK0999/almanac/blob/main/assests/Screenshot%20(23).png "deployed web page)
-![Coding Pge](https://github.com/MK0999/almanac/blob/main/assests/Screenshot%20(24).png png "Coding page)
+![Deployed web page scrrenshot](https://github.com/MK0999/almanac/blob/main/assests/Screenshot%20(23).png)
+![Coding Pge](https://github.com/MK0999/almanac/blob/main/assests/Screenshot%20(24).png)
 
 
 
